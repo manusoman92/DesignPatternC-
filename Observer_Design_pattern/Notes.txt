@@ -1,1 +1,5 @@
 Notes on Observer Design Pattern
+
+* list of observer get notified when a change occured at subject class
+* define one to many dependency between objects,so that one object change its state
+all its dependents get notified.
